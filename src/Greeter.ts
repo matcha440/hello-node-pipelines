@@ -2,7 +2,7 @@ class Greeter {
   public greeting :string
 
   constructor () {
-    this.greeting = 'Hello World!'
+    this.greeting = 'yo!'
   }
 
   public sayHello (): string {
