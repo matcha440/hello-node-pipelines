@@ -24,7 +24,7 @@ steps:
   inputs:
     testRunner: JUnit
     testResultsFiles: ./junit.xml
-  condition: $(always())
+  condition: always()
 
 - task: ArchiveFiles@2
   inputs:
