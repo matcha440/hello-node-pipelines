@@ -1,0 +1,7 @@
+src
+.*
+*.test.js
+*.js.map
+junit.xml
+azure-pipelines*
+tsconfig.json
