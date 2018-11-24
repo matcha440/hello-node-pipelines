@@ -1,6 +1,6 @@
 {
   "name": "@matcha440/hello-node-pipelines",
-  "version": "0.0.1",
+  "version": "0.0.0",
   "description": "Simple hello world library for demo purposes",
   "main": "dist/index.js",
   "scripts": {
